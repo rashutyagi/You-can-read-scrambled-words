@@ -9,3 +9,5 @@ The String  - I have always wondered that will it be easy and fast to read a boo
 when served as - I hvae always werdneod taht wlil it be easy and fast to read a book if all the useelss ltreets were rveomed form it
 
 Still remains readable.
+
+[Link to Code](https://github.com/rashutyagi/You-can-read-scrambled-words/blob/main/Yes_you_can_read_Scrambled_Words.ipynb)
